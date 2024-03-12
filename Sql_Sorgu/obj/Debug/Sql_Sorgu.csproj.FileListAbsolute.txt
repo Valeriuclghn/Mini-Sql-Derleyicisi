@@ -1,0 +1,10 @@
+C:\Users\Gizem\source\repos\Sql_Sorgu\bin\Debug\Sql_Sorgu.exe.config
+C:\Users\Gizem\source\repos\Sql_Sorgu\bin\Debug\Sql_Sorgu.exe
+C:\Users\Gizem\source\repos\Sql_Sorgu\bin\Debug\Sql_Sorgu.pdb
+C:\Users\Gizem\source\repos\Sql_Sorgu\obj\Debug\Sql_Sorgu.csproj.AssemblyReference.cache
+C:\Users\Gizem\source\repos\Sql_Sorgu\obj\Debug\Sql_Sorgu.Form1.resources
+C:\Users\Gizem\source\repos\Sql_Sorgu\obj\Debug\Sql_Sorgu.Properties.Resources.resources
+C:\Users\Gizem\source\repos\Sql_Sorgu\obj\Debug\Sql_Sorgu.csproj.GenerateResource.cache
+C:\Users\Gizem\source\repos\Sql_Sorgu\obj\Debug\Sql_Sorgu.csproj.CoreCompileInputs.cache
+C:\Users\Gizem\source\repos\Sql_Sorgu\obj\Debug\Sql_Sorgu.exe
+C:\Users\Gizem\source\repos\Sql_Sorgu\obj\Debug\Sql_Sorgu.pdb
